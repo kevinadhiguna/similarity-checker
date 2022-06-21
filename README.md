@@ -11,4 +11,8 @@
 
 <br/>
 
+## Reference
+
+- [Plagiarism detector using python by I know python](https://youtu.be/lRzC3w2NDg0)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/similarity-checker)](https://github.com/kevinadhiguna)
